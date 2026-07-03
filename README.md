@@ -29,8 +29,8 @@ This project bridges the gap between AI technology and accessible healthcare, pa
 | Name |
 |------|
 | Julakanti Varshith |
-| Bojja Likita Reddy |
-| Manish Reddy P |
+| Polishetty Bala Arun |
+
  
 
 ---
